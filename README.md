@@ -1,5 +1,5 @@
 # Graphics-Card-Web-Scraper
-
+<img src = "gpu.png" width = "50%" height = "50%">
 This script scrapes graphics card prices on newegg.com and stores them in an excel file.
 
 # Running the script
